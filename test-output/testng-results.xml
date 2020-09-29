@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="appium_project" duration-ms="232251" started-at="2020-09-23T06:58:11Z" finished-at="2020-09-23T07:02:04Z">
+    <groups>
+    </groups>
+    <test name="appium_projects" duration-ms="232251" started-at="2020-09-23T06:58:11Z" finished-at="2020-09-23T07:02:04Z">
+      <class name="appium_project.GoogleKeep">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:appium_project.GoogleKeep@61f8bee4]" name="beforeMethod" is-config="true" duration-ms="12862" started-at="2020-09-23T06:58:45Z" finished-at="2020-09-23T06:58:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createNote()[pri:0, instance:appium_project.GoogleKeep@61f8bee4]" name="createNote" duration-ms="10036" started-at="2020-09-23T06:58:58Z" finished-at="2020-09-23T06:59:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNote -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:appium_project.GoogleKeep@61f8bee4]" name="afterMethod" is-config="true" duration-ms="1041" started-at="2020-09-23T06:59:08Z" finished-at="2020-09-23T06:59:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- appium_project.GoogleKeep -->
+      <class name="appium_project.GoogleKeepWithReminder">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:appium_project.GoogleKeepWithReminder@7b49cea0]" name="beforeMethod" is-config="true" duration-ms="12756" started-at="2020-09-23T06:59:09Z" finished-at="2020-09-23T06:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createNoteWithReminder()[pri:0, instance:appium_project.GoogleKeepWithReminder@7b49cea0]" name="createNoteWithReminder" duration-ms="13942" started-at="2020-09-23T06:59:22Z" finished-at="2020-09-23T06:59:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNoteWithReminder -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:appium_project.GoogleKeepWithReminder@7b49cea0]" name="afterMethod" is-config="true" duration-ms="972" started-at="2020-09-23T06:59:36Z" finished-at="2020-09-23T06:59:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- appium_project.GoogleKeepWithReminder -->
+      <class name="appium_project.AlchemyToDoList">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:appium_project.AlchemyToDoList@887af79]" name="beforeMethod" is-config="true" duration-ms="12639" started-at="2020-09-23T06:59:37Z" finished-at="2020-09-23T06:59:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="alchemyToDoList()[pri:0, instance:appium_project.AlchemyToDoList@887af79]" name="alchemyToDoList" duration-ms="41969" started-at="2020-09-23T06:59:49Z" finished-at="2020-09-23T07:00:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alchemyToDoList -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:appium_project.AlchemyToDoList@887af79]" name="afterMethod" is-config="true" duration-ms="933" started-at="2020-09-23T07:00:31Z" finished-at="2020-09-23T07:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- appium_project.AlchemyToDoList -->
+      <class name="appium_project.GoogleTask">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:appium_project.GoogleTask@4f970963]" name="beforeMethod" is-config="true" duration-ms="16258" started-at="2020-09-23T06:58:11Z" finished-at="2020-09-23T06:58:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createTasks()[pri:0, instance:appium_project.GoogleTask@4f970963]" name="createTasks" duration-ms="16477" started-at="2020-09-23T06:58:28Z" finished-at="2020-09-23T06:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTasks -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:appium_project.GoogleTask@4f970963]" name="afterMethod" is-config="true" duration-ms="939" started-at="2020-09-23T06:58:44Z" finished-at="2020-09-23T06:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- appium_project.GoogleTask -->
+      <class name="appium_project.AlchemyLoginForm">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:appium_project.AlchemyLoginForm@7fac631b]" name="beforeMethod" is-config="true" duration-ms="13192" started-at="2020-09-23T07:00:32Z" finished-at="2020-09-23T07:00:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="alchemyLoginForm()[pri:0, instance:appium_project.AlchemyLoginForm@7fac631b]" name="alchemyLoginForm" duration-ms="25485" started-at="2020-09-23T07:00:45Z" finished-at="2020-09-23T07:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alchemyLoginForm -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:appium_project.AlchemyLoginForm@7fac631b]" name="afterMethod" is-config="true" duration-ms="932" started-at="2020-09-23T07:01:11Z" finished-at="2020-09-23T07:01:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- appium_project.AlchemyLoginForm -->
+      <class name="appium_project.AlchemyPopupsCard">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:appium_project.AlchemyPopupsCard@5b87ed94]" name="beforeMethod" is-config="true" duration-ms="12367" started-at="2020-09-23T07:01:12Z" finished-at="2020-09-23T07:01:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="alchemyPopupCard()[pri:0, instance:appium_project.AlchemyPopupsCard@5b87ed94]" name="alchemyPopupCard" duration-ms="38470" started-at="2020-09-23T07:01:24Z" finished-at="2020-09-23T07:02:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alchemyPopupCard -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:appium_project.AlchemyPopupsCard@5b87ed94]" name="afterMethod" is-config="true" duration-ms="921" started-at="2020-09-23T07:02:03Z" finished-at="2020-09-23T07:02:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- appium_project.AlchemyPopupsCard -->
+    </test> <!-- appium_projects -->
+  </suite> <!-- appium_project -->
+</testng-results>
